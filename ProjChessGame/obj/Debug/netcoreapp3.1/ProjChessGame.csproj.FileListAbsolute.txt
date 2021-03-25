@@ -1,0 +1,13 @@
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.csprojAssemblyReference.cache
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.AssemblyInfoInputs.cache
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.AssemblyInfo.cs
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.csproj.CoreCompileInputs.cache
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.exe
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.deps.json
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.runtimeconfig.json
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.runtimeconfig.dev.json
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.dll
+D:\curso\Course\ProjChessGame\ProjChessGame\bin\Debug\netcoreapp3.1\ProjChessGame.pdb
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.dll
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.pdb
+D:\curso\Course\ProjChessGame\ProjChessGame\obj\Debug\netcoreapp3.1\ProjChessGame.genruntimeconfig.cache
