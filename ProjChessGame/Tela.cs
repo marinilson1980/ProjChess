@@ -1,4 +1,5 @@
 ﻿using System;
+using Chess;
 using tabuleiro;
 
 namespace ProjChessGame {
@@ -24,6 +25,14 @@ namespace ProjChessGame {
                 Console.WriteLine();
             }
             Console.WriteLine("  a b c d e f g h" );
+        }
+
+        public static ChessPosition lerPosicaoXadrez()
+        {
+            string s = Console.ReadLine();
+            char coluna = s[0];
+            int linha = int.Parse(s[1] + "");
+            return new ChessPosition(coluna, linha);
         }
 
 
