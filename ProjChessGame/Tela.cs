@@ -14,6 +14,10 @@ namespace ProjChessGame {
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Aguardando jogada : " + partida.jogadorAtual);
+            if (partida.xeque)
+            {
+                Console.Write("Xeque");
+            }
         }
 
         public static void imprimirPecasCapturadas(PartidaDeXadrez partida)
