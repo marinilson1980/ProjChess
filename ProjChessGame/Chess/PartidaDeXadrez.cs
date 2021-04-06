@@ -98,7 +98,7 @@ namespace Chess {
 
         public void validarPosicaoDeDestino(Posicao origem, Posicao destinno)
         {
-            if (!tab.peca(origem).podeMoverPara(destinno))
+            if (!tab.peca(origem).movimentoPossivel(destinno))
             {
                 throw new TabuleiroException("Posição de destino inválida");
             }
